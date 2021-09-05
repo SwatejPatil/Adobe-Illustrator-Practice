@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#1C6E30;}
+	.st2{fill:#269C44;}
+	.st3{fill:#2FBD53;}
+	.st4{fill:#3FE869;}
+	.st5{fill:#4789B8;}
+	.st6{fill:#B735DB;}
+	.st7{fill:#C5E019;}
+	.st8{fill:#009EFF;}
+	.st9{fill:#800F12;}
+	.st10{fill:#B30B0F;}
+	.st11{fill:#A60004;}
+	.st12{fill:#D90006;}
+	.st13{fill:#00AFEF;}
+	.st14{fill:#231F20;}
+	.st15{fill:#EC008C;}
+	.st16{fill:#FFF200;}
+</style>
+<g id="Background">
+	<radialGradient id="SVGID_1_" cx="247.9998" cy="119.9997" r="777.714" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#363636"/>
+		<stop  offset="1" style="stop-color:#121212"/>
+	</radialGradient>
+	<rect class="st0" width="792" height="612"/>
+</g>
+<g id="Logo">
+	<g>
+		<g>
+			<polygon class="st1" points="197.15,165.84 197.15,206.65 174.48,206.65 174.48,130.96 			"/>
+		</g>
+		<g>
+			<line class="st1" x1="240.99" y1="191.68" x2="240.99" y2="191.66"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st2" points="280.48,130.96 280.48,206.65 257.8,206.65 257.8,165.83 			"/>
+		</g>
+		<g>
+			<line class="st2" x1="240.99" y1="191.68" x2="240.99" y2="191.66"/>
+		</g>
+	</g>
+	<polygon class="st3" points="227.48,170.87 213.94,191.66 197.15,165.84 174.48,130.96 174.48,130.96 201.51,130.96 	"/>
+	<polygon class="st4" points="280.48,130.96 257.8,165.83 241,191.66 213.94,191.66 227.48,170.87 253.43,130.96 	"/>
+	<g>
+		<g>
+			<polygon class="st5" points="550.24,165.85 550.24,206.66 527.56,206.66 527.56,130.97 			"/>
+		</g>
+		<g>
+			<line class="st5" x1="594.08" y1="191.68" x2="594.08" y2="191.67"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st6" points="633.56,130.96 633.56,206.66 610.88,206.66 610.88,165.84 			"/>
+		</g>
+		<g>
+			<line class="st6" x1="594.08" y1="191.68" x2="594.08" y2="191.67"/>
+		</g>
+	</g>
+	<polygon class="st7" points="580.56,170.87 567.03,191.67 550.24,165.85 527.56,130.97 527.56,130.96 554.6,130.96 	"/>
+	<polygon class="st8" points="633.56,130.96 610.88,165.84 594.09,191.67 567.03,191.67 580.56,170.87 606.51,130.96 	"/>
+	<g>
+		<g>
+			<polygon class="st9" points="550.24,394.81 550.24,435.62 527.56,435.62 527.56,359.93 			"/>
+		</g>
+		<g>
+			<line class="st9" x1="594.08" y1="420.64" x2="594.08" y2="420.63"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st10" points="633.56,359.92 633.56,435.62 610.88,435.62 610.88,394.8 			"/>
+		</g>
+		<g>
+			<line class="st10" x1="594.08" y1="420.64" x2="594.08" y2="420.63"/>
+		</g>
+	</g>
+	<polygon class="st11" points="580.56,399.83 567.03,420.63 550.24,394.81 527.56,359.93 527.56,359.92 554.6,359.92 	"/>
+	<polygon class="st12" points="633.56,359.92 610.88,394.8 594.09,420.63 567.03,420.63 580.56,399.83 606.51,359.92 	"/>
+	<g>
+		<g>
+			<polygon class="st13" points="197.15,409.33 197.15,450.14 174.48,450.14 174.48,374.45 			"/>
+		</g>
+		<g>
+			<line class="st13" x1="240.99" y1="435.16" x2="240.99" y2="435.15"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st14" points="282.48,374.44 282.48,450.14 259.8,450.14 259.8,409.32 			"/>
+		</g>
+		<g>
+			<line class="st14" x1="242.99" y1="430.16" x2="242.99" y2="430.15"/>
+		</g>
+	</g>
+	<polygon class="st15" points="227.48,411.35 213.94,432.15 197.15,406.33 174.48,371.45 174.48,371.44 201.51,371.44 	"/>
+	<polygon class="st16" points="282.48,371.44 259.8,406.32 243,432.15 215.94,432.15 229.48,411.35 255.43,371.44 	"/>
+</g>
+</svg>
